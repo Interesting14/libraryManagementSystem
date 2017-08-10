@@ -1,0 +1,44 @@
+{
+  "resultCode": "0",
+  "resultMsg": "获取信息出错信息2",
+  "data":{  
+            "role":"admin",
+            "token": "aabbccdd",
+            "avatar": "http://img.youxiduo.com/userdirs/2016/04/20160428095737g6hR.jpg", 
+            "account":"81438234@qq.com",
+            "nickname": "小乔",
+            "trueName": "Coco",
+            "sex": "woman",
+            "level":"管理员",
+            "email":"659575896@qq.com",
+            "introduction": "小乔是一名非常优秀的萌妹子法师。她的特长是远程消耗，攻击范围非常长。扇子是她的象征，代表色是粉色。",
+
+            "uid": "236e3402dbab51ea17f9f6f360993233",
+            "permissions":{
+                "/index/readme":true,
+                "/index/personalInfo":true,
+            	"/example/tableList":true,
+                "/example/myBooklist":true,
+                "/movie/newMovie":true,
+                "/movie/movieSearch":true,
+        		"/errorpage/401":false,
+        		"/errorpage/404":false,
+                "/example/education":true,
+                "/example/youthLiterature":true,
+                "/example/technologyLife":true,
+                "/example/humanityHistory":true,
+                "/example/childrenBooks":true,
+                "/example/form":true,
+        		"/example/tinymce":true,
+        		"/example/mixin":true,
+                "/example/31":false,
+                "/systemSet/personalCenter":true,
+                "/systemSet/memberManage":true,
+                "/systemSet/permissionsManage":true,
+                "/systemSet/loginLog":true
+        		
+        	},
+            "explain":"以上只是部分字段，如需要可自行添加。登录接口可只返回token和uid字段，或者只返回token，那么获取用户信息时无法传参，接口直接根据cookie来返回用户信息"
+    }
+}
+

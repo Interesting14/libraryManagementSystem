@@ -1,0 +1,45 @@
+{
+  "resultCode": "0",
+  "resultMsg": "",
+  "data": {
+    "currPage": 1,
+    "total": 8,
+    
+    "pageSize": 10,
+    "data": [
+      {
+        "chnlId": "659575896@qq.com",
+        "hisChnlId": "Coco",
+        "chnlName": "女",
+        "state": "管理员",
+        "isavailable": "Y",
+        "orderNum": 13466666666
+      },
+      {
+        "chnlId": "123456@qq.com",
+        "hisChnlId": "楠神",
+        "chnlName": "女",
+        "state": "高级会员",
+        "isavailable": "Y",
+        "orderNum": 13577777777
+      },
+      {
+        "chnlId": "654321@qq.com",
+        "hisChnlId": "Meky",
+        "chnlName": "女",
+        "state": "普通会员",
+        "isavailable": "Y",
+        "orderNum": 13688888888
+      },
+      {
+        "chnlId": "48514452@163.com",
+        "hisChnlId": "小明",
+        "chnlName": "男",
+        "state": "普通会员",
+        "isavailable": "Y",
+        "orderNum": 13799999999
+      }
+      
+    ]
+  }
+}
