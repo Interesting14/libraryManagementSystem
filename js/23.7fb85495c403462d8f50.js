@@ -1,0 +1,1 @@
+webpackJsonp([23],{242:function(e,n,t){var r=t(6)(t(271),t(373),null,null,null);e.exports=r.exports},271:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});t(18),t(98)},373:function(e,n){e.exports={render:function(){var e=this,n=e.$createElement;return(e._self._c||n)("p",[e._v("childrenBooks")])},staticRenderFns:[]}}});
